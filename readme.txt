@@ -1,4 +1,4 @@
-You can insert whatever numbers you want - numbers.
+You can insert whatever numbers you want.
 If you input any text, it just doesn't work.
 
 
